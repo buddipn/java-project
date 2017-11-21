@@ -37,5 +37,5 @@
 
     <target name="main" depends="compile, jar">
       <description>Main target</description>
-    <target>
+    </target>
   </project>
